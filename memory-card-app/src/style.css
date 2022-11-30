@@ -1,0 +1,14 @@
+.cards--containter{
+    border: 1px solid black;
+}
+
+.cards{
+    border: 1px solid black;
+    text-align: center;
+    align-items: center;
+    font-size: 50px;
+
+    width: 50px;
+    height: 50px;
+
+}
